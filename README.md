@@ -16,12 +16,16 @@ For the workshop, we will use Google Colab, a cloud-based Jupyter notebook servi
 
 There are two ways to get started with the course material:
 
-1. You can run the notebooks in Google Colab without any further ado. Just click on the links below, and you will be taken to Google Colab, where you can run the code in the notebooks. You can also edit the code, and save your changes to your Google Drive.
-2. You can fork the repository to your own GitHub account, and then run the notebooks in Google Colab. This way, you get to practice using Git and GitHub, which is a good idea if you want to work on code with others, or if you want to keep track of your own code over time. To do this:
+1. You can run the notebooks in Google Colab without any further ado. Just click on the links below, and you will be taken to Google Colab, where you can run the code in the notebooks. You can also edit the code, and save your changes (copy the notebook) to your Google Drive.
+   1. [Tutorial 1: Jupyter Notebooks on Colab](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/1-jupyter_notebooks_colab.ipynb)
+   2. [Tutorial 2: Python Basics](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/2-python_basics.ipynb)
+   3. [Tutorial 3: Data Analysis with Numpy](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/3-numpy.ipynb)
+   4. [Tutorial 4: Plotting, Visualization, fMRI(?)](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/4-matplotlib_MRI.ipynb)
+2. You can fork the repository to your own GitHub account, and then run the notebooks in Google Colab -- or even on your own computer. This way, you get to practice using Git and GitHub, which is a good idea if you want to work on code with others, or if you want to keep track of your own code over time. To do this:
      - After the first instruction, you will go to GitHub and create a user account there.
        - After this first registration you can have GitHub convert your account to an education account, which enhances your account for free - but that's for later.
      - Once you have a GitHub account and are logged in, you can go to the course repository and `fork` it - there's a button on the right top. Forking copies the repository over to your user account, but instead of just copying, it retains the possibility of automatically recombining your version and mine in the future.
-    - Now that you have your own version of the code repo(sitory), you can open each of the notebooks in Google Colab.
+    - Now that you have your own version of the code repo(sitory), you can open each of the notebooks in Google Colab, or install python on your own computer and do everything locally!. If you want to do this, please hit me up during the workshop and I can show you how to do it.
 
 
 ### Further Resources
