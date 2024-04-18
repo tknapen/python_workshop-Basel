@@ -31,11 +31,13 @@ There are two ways to get started with the course material:
 
 ### Further Resources
 
+#### Good Research Code Handbook
+
 Go to, for when you've gotten the hang of Python as a language, and want to graduate to more advanced topics such as how to package your code, or just want to know more about how to write good python code for science:
 
 - [The Good Research Code Handbook](https://goodresearch.dev)
 
-### Software Carpentries
+#### Software Carpentries
 
 A general resource that is a really good collection of learning materials is that of the software carpentries (notice how the name alludes to the fact that programming is a **craft**). They have all manner of relevant courses:
 
