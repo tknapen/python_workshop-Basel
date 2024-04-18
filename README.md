@@ -21,6 +21,7 @@ There are two ways to get started with the course material:
    2. [Tutorial 2: Python Basics](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/2-python_basics.ipynb)
    3. [Tutorial 3: Data Analysis with Numpy](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/3-numpy.ipynb)
    4. [Tutorial 4: Plotting, Visualization, fMRI(?)](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/4-matplotlib_MRI.ipynb)
+   5. [Tutorial 5: Analysis and plotting with `pandas` and `seaborn`](https://githubtocolab.com/tknapen/python_workshop-Basel/blob/master/notebooks/5-pandas_seaborn.ipynb)
 2. You can fork the repository to your own GitHub account, and then run the notebooks in Google Colab -- or even on your own computer. This way, you get to practice using Git and GitHub, which is a good idea if you want to work on code with others, or if you want to keep track of your own code over time. To do this:
      - After the first instruction, you will go to GitHub and create a user account there.
        - After this first registration you can have GitHub convert your account to an education account, which enhances your account for free - but that's for later.
