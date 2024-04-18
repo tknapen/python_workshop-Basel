@@ -35,6 +35,16 @@ Go to, for when you've gotten the hang of Python as a language, and want to grad
 
 - [The Good Research Code Handbook](https://goodresearch.dev)
 
+### Software Carpentries
+
+A general resource that is a really good collection of learning materials is that of the software carpentries (notice how the name alludes to the fact that programming is a **craft**). They have all manner of relevant courses:
+
+- [Carpentry for python, very complementary to this workshop!](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Carpentry for Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
+- [Carpentry for learning the UNIX shell](https://swcarpentry.github.io/shell-novice/)
+- [Carpentry for GIT and version control concepts](https://swcarpentry.github.io/git-novice/)
+
+
 #### Searching for answers to problems
 
 - [Google :)](https://www.google.com)
